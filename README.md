@@ -15,13 +15,7 @@ Actualmente no hay planes de mantener el proyecto activamente, corregir errores,
 
 ## Uso y distribución
 
-Se permite compartir, modificar y redistribuir este proyecto libremente siempre que:
-
-- se dé crédito al creador original.
-- se mencione la fuente del proyecto.
-- no se utilice con fines comerciales.
-
-No está permitido reclamar este proyecto como propio ni utilizarlo para monetización directa.
+Se permite compartir y modificar este proyecto bajo los términos de la licencia CC BY-NC 4.0, dando el crédito correspondiente y sin fines comerciales.
 
 ## Objetivo del proyecto
 
