@@ -1,4 +1,4 @@
-# NehuenCraft
+# MeritoCraft
 
 Mod enfocado en complicarte la vida :D
 
