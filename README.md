@@ -11,7 +11,7 @@ El mod fue pensado como una experiencia Vanilla+, no puedo garantizar que sea co
 
 El mod es compatible con juego multijugador, está pensado para modo competitivo/PVP pero es posible jugar Co-op hasta justo antes del final.
 
-##Sobre el proyecto
+## Sobre el proyecto
 
 Proyecto personal desarrollado por Nehuenn20 con la ayuda de MCreator.
 
