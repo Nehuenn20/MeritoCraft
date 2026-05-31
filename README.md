@@ -5,7 +5,7 @@ Mod enfocado en complicarte la vida :D
 El mod tiene dos modos de juego:
   - Modo completo (por defecto): Es la experiencia completa del mod, este modo te obliga a experimentar el mod por completo si quieres pasarte el juego. 
   - Modo simple: En este modo no se exige un requisito como tal, pero aún así en la práctica hay un mínimo obligatorio por temas de obtención de objetos.
-Para cambiar de modo de juego: en la configuración del mod pon "Experiencia completa" en sí para el modo completo y no para el modo simple ("full_experience" en true/false en los archivos del mod)
+Para cambiar de modo de juego: en la configuración del mod pon "Experiencia completa" en "Sí" para el modo completo y "No" para el modo simple ("full_experience" en true/false en los archivos del mod)
 
 El mod fue pensado como una experiencia Vanilla+, no puedo garantizar que sea compatible o esté balanceado con el uso de otros mods.
 
