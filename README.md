@@ -5,7 +5,7 @@ Mod enfocado en complicarte la vida :D
 El mod tiene dos modos de juego:
   - Modo completo (por defecto): Es la experiencia completa del mod, este modo te obliga a experimentar el mod por completo si quieres pasarte el juego. 
   - Modo simple: En este modo no se exige un requisito como tal, pero aún así en la práctica hay un mínimo obligatorio por temas de obtención de objetos.
-Para cambiar de modo de juego usa el comando "/gamerule completeMode" (true para el modo completo y false para el modo simple)
+Para cambiar de modo de juego: en la configuración del mod pon "Experiencia completa" en true para el modo completo y false para el modo simple
 
 El mod fue pensado como una experiencia Vanilla+, no puedo garantizar que sea compatible o esté balanceado con el uso de otros mods.
 
