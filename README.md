@@ -8,7 +8,7 @@ El mod tiene dos modos de juego:
 
 Para cambiar de modo de juego: en la configuración del mod pon "Experiencia completa" en "Sí" para el modo completo y "No" para el modo simple ("full_experience" en true/false en los archivos del mod)
 
-El mod fue diseñado para Minecraft Java 26.1 (o Minecraft Java 1.21.8 para las versiones anteriores a Meritocraft 1.6.2) y está pensado como una experiencia Vanilla+, no puedo garantizar que sea compatible o esté balanceado con el uso de otros mods o versiones.
+El mod fue diseñado para Minecraft Java 26.1 (o Minecraft Java 1.21.8 para las versiones anteriores a MeritoCraft 1.6.2) y está pensado como una experiencia Vanilla+, no puedo garantizar que sea compatible o esté balanceado con el uso de otros mods o versiones.
 
 El mod es compatible con juego multijugador, está pensado para modo competitivo/PVP pero es posible jugar Co-op hasta justo antes del final.
 
