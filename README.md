@@ -8,7 +8,7 @@ El mod tiene dos modos de juego:
 
 Para cambiar de modo de juego: en la configuración del mod pon "Experiencia completa" en "Sí" para el modo completo y "No" para el modo simple ("full_experience" en true/false en los archivos del mod)
 
-El mod fue pensado como una experiencia Vanilla+, no puedo garantizar que sea compatible o esté balanceado con el uso de otros mods.
+El mod fue diseñado para Minecraft Java 26.1 (o Minecraft Java 1.21.8 para las versiones anteriores a Meritocraft 1.6.2) y está pensado como una experiencia Vanilla+, no puedo garantizar que sea compatible o esté balanceado con el uso de otros mods o versiones.
 
 El mod es compatible con juego multijugador, está pensado para modo competitivo/PVP pero es posible jugar Co-op hasta justo antes del final.
 
@@ -25,7 +25,7 @@ Algunas bromas o referencias pueden incluir humor absurdo, memes o chistes inter
 El proyecto es compatible con los idiomas Español (Argentina) y Español (México) dentro del juego.
 Otros idiomas deberían funcionar correctamente, aunque pueden existir inconsistencias en textos, referencias o traducciones sin adaptar.
 
-Actualmente no hay planes de mantener el proyecto activamente, corregir errores, añadir nuevos idiomas ni actualizarlo a futuras versiones, aunque podrían realizarse cambios o actualizaciones ocasionales.
+Actualmente no hay planes de mantener el proyecto activamente, corregir errores, añadir nuevos idiomas ni actualizarlo a futuras versiones o continuarlo en las antigüas; aunque podrían realizarse cambios o actualizaciones ocasionales.
 
 ## Uso y distribución
 
